@@ -1,0 +1,17 @@
+{
+  "name": "mdeditor",
+  "version": "1.0.0",
+  "description": "A project to make a fun, useful program for me to use in my everyday work. Created following https://scotch.io/tutorials/building-a-real-time-markdown-viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "didoni",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "redis": "^3.0.2",
+    "share": "^0.6.3"
+  }
+}
